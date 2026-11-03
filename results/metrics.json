@@ -1,0 +1,17 @@
+{
+  "total": 5210,
+  "quarantined": 60,
+  "duplicates": 150,
+  "late": 214,
+  "accepted": 4786,
+  "windows_watermark_closed": 70,
+  "windows_flushed": 2,
+  "windows_total": 72,
+  "total_net_revenue": 1026877.13,
+  "duplicate_rate": 0.0288,
+  "late_rate": 0.0411,
+  "avg_lag_minutes": 60.19,
+  "max_lag_hours": 29.89,
+  "alert_count": 3,
+  "reconciliation_ok": true
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "type": "high_duplicate_rate",
+    "duplicate_rate": 0.0288,
+    "duplicates": 150
+  },
+  {
+    "type": "high_consumer_lag",
+    "max_lag_hours": 29.89
+  },
+  {
+    "type": "late_events_present",
+    "late_rate": 0.0411,
+    "late_count": 214
+  }
+]
